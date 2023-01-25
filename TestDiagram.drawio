@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-25T06:35:30.747Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="kS5WH5V4KeVS3wf5cGKI" version="20.8.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-25T06:38:25.492Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="IPEiKFil3V40jvZX0PZn" version="20.8.11" type="github">
   <diagram name="Page-1" id="GItFIVW5s15U3U5ppBqT">
     <mxGraphModel dx="954" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,8 +13,14 @@
         <mxCell id="I65t7VdOJbUTm_4NwAxL-1" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" vertex="1" parent="1">
           <mxGeometry x="360" y="300" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I65t7VdOJbUTm_4NwAxL-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;" vertex="1" parent="1">
-          <mxGeometry x="60" y="390" width="53" height="59" as="geometry" />
+        <mxCell id="I65t7VdOJbUTm_4NwAxL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I65t7VdOJbUTm_4NwAxL-2" target="I65t7VdOJbUTm_4NwAxL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I65t7VdOJbUTm_4NwAxL-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=default;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;" vertex="1" parent="1">
+          <mxGeometry x="50" y="360" width="53" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="I65t7VdOJbUTm_4NwAxL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.7;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="I65t7VdOJbUTm_4NwAxL-3" target="I65t7VdOJbUTm_4NwAxL-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I65t7VdOJbUTm_4NwAxL-3" value="" style="image;html=1;image=img/lib/clip_art/networking/Modem_128x128.png" vertex="1" parent="1">
           <mxGeometry x="500" y="60" width="80" height="80" as="geometry" />
