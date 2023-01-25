@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-01-25T06:24:02.704Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.11" etag="OpIZ1HLx5-H_8BQoplc8" type="github"><diagram name="Page-1" id="GItFIVW5s15U3U5ppBqT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-25T06:27:53.078Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="H48GqZSNIuS96l2uh3IE" version="20.8.11" type="github">
+  <diagram name="Page-1" id="GItFIVW5s15U3U5ppBqT">
+    <mxGraphModel dx="954" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="I65t7VdOJbUTm_4NwAxL-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="30" width="340" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="I65t7VdOJbUTm_4NwAxL-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="240" width="510" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="I65t7VdOJbUTm_4NwAxL-1" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I65t7VdOJbUTm_4NwAxL-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;" vertex="1" parent="1">
+          <mxGeometry x="60" y="390" width="53" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="I65t7VdOJbUTm_4NwAxL-3" value="" style="image;html=1;image=img/lib/clip_art/networking/Modem_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="500" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I65t7VdOJbUTm_4NwAxL-8" value="" style="shape=mxgraph.rack.cisco.cisco_catalyst_4928_10_gigabit_ethernet_switch;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="610" y="70" width="90" height="15" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
